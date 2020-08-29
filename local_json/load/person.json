@@ -1,0 +1,29 @@
+[{
+    "name":"Tuğba Özaydın",
+    "age":"23",
+    "height":"163",
+    "gender":"female",
+    "hair_color":"brown"
+},
+{
+    "name":"Kari",
+    "age":"2",
+    "height":"159",
+    "gender":"male",
+    "hair_color":"blue"
+},
+{
+    "name":"Ashley ",
+    "age":"29",
+    "height":"166",
+    "gender":"female",
+    "hair_color":"black"
+},
+{
+    "name":"Orland",
+    "age":"25",
+    "height":"173",
+    "gender":"male",
+    "hair_color":"brown"
+}
+]
