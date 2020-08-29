@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/fetch_data_http/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/fetch_data_http/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/fetch_data_http/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local_json/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/local_json/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/local_json/build" />
       <excludeFolder url="file://$MODULE_DIR$/localjson/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/localjson/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/localjson/build" />
